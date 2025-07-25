@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/fowzia-nilofer-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/fowzia-nilofer-portfolio/static/js/main.06688430.js",
-    "static/js/453.ad7768ec.chunk.js": "/fowzia-nilofer-portfolio/static/js/453.ad7768ec.chunk.js",
-    "static/media/logo.svg": "/fowzia-nilofer-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/fowzia-nilofer-portfolio/index.html",
-    "main.f855e6bc.css.map": "/fowzia-nilofer-portfolio/static/css/main.f855e6bc.css.map",
-    "main.06688430.js.map": "/fowzia-nilofer-portfolio/static/js/main.06688430.js.map",
-    "453.ad7768ec.chunk.js.map": "/fowzia-nilofer-portfolio/static/js/453.ad7768ec.chunk.js.map"
+    "main.css": "/static/css/main.587666f5.css",
+    "main.js": "/static/js/main.33840528.js",
+    "index.html": "/index.html",
+    "main.587666f5.css.map": "/static/css/main.587666f5.css.map",
+    "main.33840528.js.map": "/static/js/main.33840528.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.06688430.js"
+    "static/css/main.587666f5.css",
+    "static/js/main.33840528.js"
   ]
 }
