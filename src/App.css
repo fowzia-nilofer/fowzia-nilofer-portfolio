@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -34,5 +34,113 @@
   }
   to {
     transform: rotate(360deg);
+  }
+} */
+
+/* General Styles */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f5f7fa;
+  color: #222;
+}
+
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  background: white;
+  padding: 30px 40px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 0.1);
+}
+
+h1, h2, h3 {
+  color: #222;
+}
+
+h1 {
+  font-size: 2.8rem;
+  margin-bottom: 8px;
+}
+
+h2 {
+  border-bottom: 2px solid #2f80ed;
+  padding-bottom: 4px;
+  margin-bottom: 12px;
+}
+
+h3 {
+  margin-top: 8px;
+  margin-bottom: 6px;
+  color: #2f80ed;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.header a {
+  color: #2f80ed;
+  text-decoration: none;
+  font-weight: 600;
+  margin: 0 8px;
+}
+
+.header a:hover {
+  text-decoration: underline;
+}
+
+/* Section Styles */
+.section {
+  margin-bottom: 30px;
+}
+
+.section ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.section ul li {
+  margin-bottom: 8px;
+}
+
+.subheading {
+  font-weight: 600;
+  color: #555;
+}
+
+.contact-info {
+  margin-top: 6px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.project-link {
+  color: #2f80ed;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.project-link:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  font-size: 0.85rem;
+  color: #777;
+  margin-top: 50px;
+  padding-top: 15px;
+  border-top: 1px solid #ddd;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .container {
+    padding: 20px;
+    margin: 20px 10px;
   }
 }
