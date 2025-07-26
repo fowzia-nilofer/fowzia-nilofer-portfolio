@@ -263,13 +263,7 @@ function App() {
           </Card>
         </Section>
 
-        <Section initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }}>
-          <SectionTitle>Contact</SectionTitle>
-          <Card>
-            <p>Email: <a href="mailto:fowzia.nilofer@gmail.com">fowzia.nilofer@gmail.com</a></p>
-            <p>Phone: +91 9025973898</p>
-          </Card>
-        </Section>
+        
 
         <Footer>
           © 2025 Fowzia Nilofer — Portfolio powered by React, Styled Components, Framer Motion
